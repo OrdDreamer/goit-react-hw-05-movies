@@ -1,0 +1,30 @@
+.item {
+  width: 150px;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #d0d7de;
+  box-shadow: 0 3px 6px hsl(212deg 9% 59% / 15%);
+  outline-color: #a1a7ad;
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px
+}
+
+.imageContainer {
+  background-color: #d0d7de;
+  width: 100%;
+  min-height: 191px;
+}
+
+.image {
+  width: 100%;
+  display: block;
+}
+
+.characterLabel {
+  color: rgba(0, 0, 0, 0.75);
+  font-size: 14px;
+  display: block;
+  margin-bottom: 5px;
+}

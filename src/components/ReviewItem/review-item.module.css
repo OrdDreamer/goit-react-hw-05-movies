@@ -1,0 +1,16 @@
+.item {
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #d0d7de;
+  box-shadow: 0 3px 6px hsl(212deg 9% 59% / 15%);
+  outline-color: #a1a7ad;
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px
+}
+
+.author {
+  font-size: 18px;
+  font-weight: 500;
+}

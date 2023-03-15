@@ -1,0 +1,10 @@
+.link {
+  color: #000;
+  font-size: 26px;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+
+.active {
+  color: orange;
+}

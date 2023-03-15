@@ -1,0 +1,14 @@
+.container {
+  padding: 20px;
+}
+
+.title {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.nothingFoundText {
+  text-align: center;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.75);
+}
