@@ -17,7 +17,7 @@ const MovieItem = ({ data: { backdrop_path: img, title, id } }) => {
             <img
               className={styles.image}
               src={`https://image.tmdb.org/t/p/w500/${img}`}
-              alt='Movie image'
+              alt='Movie poster'
             />
           }
         </div>

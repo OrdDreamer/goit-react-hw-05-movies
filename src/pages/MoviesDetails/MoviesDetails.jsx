@@ -63,7 +63,7 @@ const MoviesDetails = () => {
               <img
                 className={styles.image}
                 src={`https://image.tmdb.org/t/p/w500/${movie.backdrop_path}`}
-                alt='Movie image'
+                alt='Movie poster'
               />
             </div>
             <h2>
